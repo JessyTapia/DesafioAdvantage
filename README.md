@@ -1,4 +1,3 @@
-# Desafio_Advantage
+# Primeiro_Repositório
 Aluna: Jessica Tapia.
-Iniciante para tentar aprender automação com Java.
-Criado para enviar a atividade final do curso Java da Keeggo.
+Iniciante para tentar aprender a criar um repositório no GitHub.
